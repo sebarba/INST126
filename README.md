@@ -1,3 +1,3 @@
 # Project 1
 
-In this project, I am tasked with creating a basic calculator using Python language. It lets the user be able to add, subtract, multiply, and divide numbers. Another function of the calculator is finding the square root.  
+In this project, I am tasked with creating a basic calculator using Python language. It lets the user be able to add, subtract, multiply, and divide numbers.First, the calculator asks the user to input a mathematical operation they would like to use such as +, -, *, and /. Once the user picks their chosen operation, the calculator then asks for the first and second numebrs. For division, it will ask the user to input the dividend and the divisor in order. One special function of the calculator is finding the square root. It asks the user to input 'sqrt' and type the number they want to square root. 
